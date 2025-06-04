@@ -1,7 +1,3 @@
-Here is a professionally rephrased version of your project description, ideal for a GitHub README under the repository title:
-**`Credit-Card-Fraud-Detection-Using-Machine-Learning`**:
-
----
 
 ## 🛡️ Credit Card Fraud Detection Using Machine Learning
 
